@@ -1,7 +1,7 @@
-# NTK
+# Neural Tangent Kernels (Jacot et al, 2018)
 
 
-A brief tutorial on Neural Tangent Kernels.  
+A python implementation of the Neural Tangent Kernel
 Click the button below to launch an interactive session
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TimoFlesch/NTK/master?filepath=notes.ipynb)
